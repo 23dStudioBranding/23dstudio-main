@@ -230,11 +230,6 @@ export default function AboutUs() {
               image: "/images/team/9.png",
             },
             {
-              name: "Vishal Patil  ",
-              role: "Web Developer",
-              image: "/images/team/5.png",
-            },
-            {
               name: "Pratiksha Duse",
               role: "2D Artist",
               image: "/images/team/6.png",
